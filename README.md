@@ -16,14 +16,9 @@
 
 ## Acesso ao Projeto
 
-- Voce pode acessar o código fonte do projeto inicial ou baixá-lo.
+- Você pode acessar o código fonte do projeto inicial ou baixá-lo.
 
 ## Tecnologia usada
  
  - Python
  - PyCharm
-
-## autora
-
-  | [<img loading="lazy"<sub>bianca cota lima</sub>]([https://github.com/BiaCLima)https://github.com/BiaCLima]) |
-  | :---: |
