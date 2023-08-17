@@ -1,12 +1,6 @@
-# Aula: Linear Regression
+# Aula: Linear Regression  
 
-- Projeto realizado em sala de aula
-- Aplicação de Modelos de Machine Learning
-- Curso: Aplicações Informáticas para Ciência de Dados
-- Professor: Tiago Cunha Reis, PhD
-- Ipluso - Instituto Politécnico da Lusofonia
-- Data: 18/04/2023
-- Autora: Bianca Lima
+Este repositório contém um projeto desenvolvido em sala de aula como parte do curso "Aplicações Informáticas para Ciência de Dados", ministrado pelo Professor Tiago Cunha Reis, PhD, no Ipluso - Instituto Politécnico da Lusofonia.
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
@@ -29,7 +23,7 @@ Tem como objetivo desenvolver as habilididades de análise do Algoritmos e das f
 
      ![Image](Histograms.png)
 
- 6. Modelo de Regressão Linear
+ 5. Modelo de Regressão Linear
     - Desenvolvimento do modelo de Regressão Linear com uso da biblioteca scikit-learn.
     - O Algoritmo de Regressão Linear é um método supervisionado de aprendizagem que tem como objetivo modelar a relação entre uma variável dependente e uma ou mais variáveis independentes, estabelecimento a melhor relação entre elas.
    
@@ -45,16 +39,19 @@ Tem como objetivo desenvolver as habilididades de análise do Algoritmos e das f
    Para 65.0 anos, previsão = 145.91 mmHg  
    Para 80.0 anos, previsão = 156.55 mmHg  
 
- 8. Representação gráfica
+ 7. Representação gráfica
     - Foi realizada a representação gráfica da Regressão Linear entre a idade e a pressão arterial, por meio um Scatter.
 
      ![Image](Scatter.png)
      
 ## Acesso ao Projeto
 
-- Você pode acessar o código fonte do projeto inicial ou baixá-lo.
+- O código-fonte do projeto inicial está disponível neste repositório para acesso e download.
 
 ## Tecnologia usada
  
  - Python
  - PyCharm
+
+- **Autora:** Bianca Costa
+- **Data:** 18/04/2023
